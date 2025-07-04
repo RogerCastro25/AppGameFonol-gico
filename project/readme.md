@@ -108,7 +108,7 @@ export const ArticulationGame = ({ difficulty }: TherapyGameProps) => {
 ----
 
 **Desenvolvido com ❤️ por [Pedro Castro](https://github.com/Pedro-Rcastro)**  
-[![LinkedIn](https://img.shields.io/badge/CONECTE_SE_NO_LINKEDIN-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pedro-castro-6b453595)
+[![LinkedIn](https://img.shields.io/badge/CONECTE_SE_NO_LINKEDIN-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/pedro-castro-)
 ```
 
 
